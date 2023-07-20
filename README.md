@@ -3,6 +3,8 @@ Fraud Analysis using Machine Learning
 
 ## Problem Statement
 
+![Alt text](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Ffraud&psig=AOvVaw1SN8LszOJpkkIpuoQJlWC1&ust=1689936848384000&source=images&cd=vfe&opi=89978449&ved=0CA4QjRxqFwoTCIDZm8ePnYADFQAAAAAdAAAAABAD)
+
 This case requires trainees to develop a model for predicting fraudulent transactions for a financial company and use insights from the model to develop an actionable plan. The data for the case is available in CSV format, with 6362620 rows and 10 columns. Candidates may use any method they wish to develop their machine learning model. Following standard model development procedures, the model should be estimated on the calibration data and tested on the validation data. This case requires both statistical analysis and creativity/judgment. I recommend spending time on both fine-tuning and interpreting the results of your machine-learning model.
 
 
