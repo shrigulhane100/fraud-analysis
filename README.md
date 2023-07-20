@@ -1,9 +1,9 @@
 # fraud-analysis
 Fraud Analysis using Machine Learning
 
-## Problem Statement
-
 ![Alt text](https://github.com/shrigulhane100/fraud-analysis/blob/main/fraud-word-magnifying-glass.jpg)
+
+## Problem Statement
 
 This case requires trainees to develop a model for predicting fraudulent transactions for a financial company and use insights from the model to develop an actionable plan. The data for the case is available in CSV format, with 6362620 rows and 10 columns. Candidates may use any method they wish to develop their machine learning model. Following standard model development procedures, the model should be estimated on the calibration data and tested on the validation data. This case requires both statistical analysis and creativity/judgment. I recommend spending time on both fine-tuning and interpreting the results of your machine-learning model.
 
